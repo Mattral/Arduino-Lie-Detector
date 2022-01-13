@@ -5,6 +5,8 @@ for example, when telling a lie—
 their skin resistance decreases.
 We can measure this resistance using an analog input and use an LED and buzzer to indicate an untruth.
 
+We use a multicolor LED that will display red to indicate a lie, green to indicate a truth, and blue to show that the lie detector should be adjusted by twiddling the variable resistor.
+
 To test the lie detector, you really need a test subject, as you will need one hand free to adjust the knob.
 First, get your subject to place two adjoining fingers on the two metal thumbtacks. 
 Then turn the knob on the variable resistor until the LED turns green.
